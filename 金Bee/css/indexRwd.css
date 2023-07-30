@@ -1,0 +1,61 @@
+@media  (max-width:875px) {
+    header {
+        background: url(../images/combbg_pc.png) no-repeat center center / auto 100%;
+    }
+
+    header .header-wrapper .point-block .title {
+        font-size: 18px;
+    }
+
+    header .header-wrapper .point-block .point p .large {
+        font-size: 25px;
+        line-height: 25px;
+    }
+    
+    header .header-wrapper .point-block .point p .little {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .marquee .marquee-wrap .title-block p {
+        font-size: 14px;
+    }
+    
+    .marquee .marquee-wrap .text-block p {
+        font-size: 14px;
+    }
+
+    .wrapper .content .tab-switch {
+        margin: 10px 0;
+    }
+
+    .wrapper .content .content-wrap .tab-page-wrap .gift-block .gift-block-wrap {
+        padding: 0 15px;
+    }
+
+    .wrapper .content .content-wrap .tab-page-wrap .gift-block .gift-block-wrap .img-block {
+        width: 50%;
+        /* width: calc(50% - 0px); */
+    }
+
+    .wrapper .content .content-wrap .tab-page-wrap .mission-block .mission-block-wrap {
+        padding: 0 15px;
+    }
+
+    .wrapper .content .content-wrap .tab-page-wrap .mission-block .mission-block-wrap .mission .text-block .title .title-text {
+        font-size: 16px;
+    }
+
+    .wrapper .content .content-wrap .tab-page-wrap .mission-block .mission-block-wrap .mission .text-block .title .point span {
+        font-size: 14px;
+    }
+
+    .wrapper .content .content-wrap .tab-page-wrap .mission-block .mission-block-wrap .mission .text-block .mission-text {
+        font-size: 14px;
+    }
+
+    .wrapper .content .content-wrap .tab-page-wrap .mission-block .mission-block-wrap .mission .text-block a {
+        font-size: 14px;
+        margin: 0 auto;
+    }
+}
